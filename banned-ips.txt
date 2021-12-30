@@ -1,0 +1,4 @@
+# Updated 06/10/19 18:47 by GenisysPro 1.1dev
+# victim name | ban date | banned by | banned until | reason
+
+14.184.127.20|2019-06-10 18:47:06 +0200|EnderDz|Forever|Banned by an operator.
